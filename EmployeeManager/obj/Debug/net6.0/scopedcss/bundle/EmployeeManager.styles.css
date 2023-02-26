@@ -10,7 +10,6 @@ main[b-309e78rkh6] {
 }
 
 .sidebar[b-309e78rkh6] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
 .top-row[b-309e78rkh6] {
@@ -76,12 +75,18 @@ main[b-309e78rkh6] {
 }
 
 .top-row[b-zuptl4w5kb] {
-    height: 3.5rem;
+    height: 140px;
     background-color: rgba(0,0,0,0.4);
 }
 
 .navbar-brand[b-zuptl4w5kb] {
     font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.logo[b-zuptl4w5kb] {
+    height: 80px;
+    display: block;
 }
 
 .oi[b-zuptl4w5kb] {

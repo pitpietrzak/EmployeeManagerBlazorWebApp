@@ -3,12 +3,18 @@
 }
 
 .top-row[b-zuptl4w5kb] {
-    height: 3.5rem;
+    height: 140px;
     background-color: rgba(0,0,0,0.4);
 }
 
 .navbar-brand[b-zuptl4w5kb] {
     font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.logo[b-zuptl4w5kb] {
+    height: 80px;
+    display: block;
 }
 
 .oi[b-zuptl4w5kb] {
